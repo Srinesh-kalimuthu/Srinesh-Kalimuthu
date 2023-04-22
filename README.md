@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋🏻, I'm Srinesh Kalimuthu</h1>
-<h3 align="center">Aspiring front end developer engrossed on learnings and an enthusiastic engineer interested to design & develop new one!</h3>
-<img src ="https://cdn.dribbble.com/users/2147021/screenshots/4704853/managertyping.gif" alt="developer_img" width=300>
+<h3 align="center">Passionate Learner & Developer</h3>
+<img src ="https://cdn.dribbble.com/users/2147021/screenshots/4704853/managertyping.gif" alt="developer_img" width=300 align=center>
 
 - 🔭 I’m currently working on **my portfolio**
 
