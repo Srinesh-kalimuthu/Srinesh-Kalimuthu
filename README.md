@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@srineshkalimuthu](https://medium.com/@srineshkalimuthu)
 
-- 📫 How to reach me **srineshkalimuthu@gamil.com**
+- 📫 How to reach me **[srineshkalimuthu@gamil.com](https://linktr.ee/srineshkalimuthu)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
