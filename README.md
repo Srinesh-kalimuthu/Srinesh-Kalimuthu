@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋🏻, I'm Srinesh Kalimuthu</h1>
 <h3 align="center">Passionate Learner & Developer</h3>
-<img src ="https://cdn.dribbble.com/users/2147021/screenshots/4704853/managertyping.gif" alt="developer_image" width=300 align="center">
+<img src ="https://cdn.dribbble.com/users/2147021/screenshots/4704853/managertyping.gif" alt="developerimage" width=300 align="center">
 
 - 🔭 I’m currently working on **spin wheel project**
 
